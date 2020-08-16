@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "directive-attribute-app"
+    }
+  },
+  "defaultProject": "directive-attribute-app",
+  "cli": {
+    "analytics": "d47b0a5c-15b0-4faf-a535-9c719d9b2693"
+  }
 }
